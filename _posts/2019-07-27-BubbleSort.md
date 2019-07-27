@@ -1,5 +1,5 @@
 ---
-title: "BubbleSort"
+title: "BubbleSort "
 date: 2019-07-27 22:42:28 -0400
 categories: algorithm
 ---
