@@ -1,3 +1,9 @@
+---
+title: "BubbleSort"
+date: 2019-07-27 22:42:28 -0400
+categories: algorithm
+---
+
 버블정렬은 정렬 대상의 n번째 인덱스와 n+1번째 인덱스를 비교해서 큰값을 뒤로 보내는 방법.
 
 
