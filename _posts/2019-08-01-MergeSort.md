@@ -22,7 +22,6 @@ public class MergeSort {
     }
 
     public void mergeSort(int[] array, int left, int right) {
-        //i, j, mid 는 index 를 가르킨다.
         int mid;
         if (left < right) {
             mid = (left + right) / 2;               //divide(분할) 분할 기점인 중간위치를 계산
